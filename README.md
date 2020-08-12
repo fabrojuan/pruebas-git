@@ -12,3 +12,6 @@ subrayado 1
 
 subrayado 2
 ===========
+
+- Aca tenemos texto normal, *texto italico*, **texto negrito** y ~~texto tachado~~.
+- Aca tenemos texto normal, _texto italico_, __texto negrito__ y ~~texto tachado~~.
