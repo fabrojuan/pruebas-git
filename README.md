@@ -32,3 +32,9 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+# Citas
+Aca tenemos una cita:
+> Cita nro 1
+
+Aca tenemos otra cita:
+> Cita nro 2
