@@ -15,3 +15,20 @@ subrayado 2
 
 - Aca tenemos texto normal, *texto italico*, **texto negrito** y ~~texto tachado~~.
 - Aca tenemos texto normal, _texto italico_, __texto negrito__ y ~~texto tachado~~.
+
+# Listas Ordenadas
+1. Item 1
+2. Item 2
+3. Item 3
+
+# Listas Desordenadas
+- Item
+- Item
+- Item
+
+# Codigo
+```rubi
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
