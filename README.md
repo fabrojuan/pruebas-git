@@ -38,3 +38,11 @@ Aca tenemos una cita:
 
 Aca tenemos otra cita:
 > Cita nro 2
+
+# Lineas divisoras
+Primer Texto
+---
+Segundo Texto
+===
+Tercer Texto
+***
